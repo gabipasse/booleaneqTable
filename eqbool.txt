@@ -50,8 +50,8 @@ def eq(a):
         ctt -= 1
 
         if eval(aOr) != 0:
-            print(f"r:1")
+            print("r:1")
         else:
-            print(f"r:0")
+            print("r:0")
 
 
