@@ -53,5 +53,3 @@ def eq(a):
             print("r:1")
         else:
             print("r:0")
-
-
